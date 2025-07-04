@@ -19,3 +19,5 @@ This C# Windows Forms application allows users to analyze input text and count t
 
 ## Screenshot
 ![image](https://github.com/user-attachments/assets/2b0a4574-8ede-4e8f-b9e9-f399403af4ad)
+![image](https://github.com/user-attachments/assets/01b09174-dae8-4903-9476-1bf171c15e98)
+
