@@ -7,11 +7,6 @@ This C# Windows Forms application allows users to analyze input text and count t
 - Displays word counts sorted from highest to lowest
 - Handles empty entries and duplicate words
 
-## Technologies
-- C#
-- Windows Forms
-- Visual Studio
-
 ## Usage
 1. Enter a text block in the input field
 2. Click the "Процесирај" button
